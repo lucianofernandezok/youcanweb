@@ -8,7 +8,6 @@ Estructura:
 *BOOTSTRAP
 *CSS
 
-
 animaciones/librerias:
 *JS
 *SMOOTHSCROOL
